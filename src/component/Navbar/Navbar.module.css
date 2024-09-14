@@ -18,6 +18,10 @@
 }
 .menu{
     display: flex;
+
+}
+.menuBtn{
+    display: none;
 }
 .menuitem{
     display: flex;
