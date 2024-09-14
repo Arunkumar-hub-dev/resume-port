@@ -95,13 +95,14 @@
         flex-direction: column-reverse;
     }
     .content{
+      align-items: center;
       text-align: center;
     }
-    .title{
+    /* .title{
         margin-left: 130px;
     }
     .contactBtn{
        margin-left: 200px;
-    }
+    } */
 
 }
