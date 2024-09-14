@@ -49,9 +49,11 @@
     .text{
         display: flex;
         flex-direction: column;
+        text-align: center;
         align-items: center;
     }
     .links{
         align-items: center;
+        text-align: center;
     }
 }
